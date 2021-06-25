@@ -1,6 +1,6 @@
 package test
 
-func adSum(a int, b int) int {
+func AdSum(a int, b int) int {
     return a + b
 }
 
